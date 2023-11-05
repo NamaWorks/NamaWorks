@@ -1,5 +1,5 @@
-https://github.com/NamaWorks/NamaWorks/assets/136508151/721abac7-bc2b-457a-8dc1-d90cc5f34639
 
+![01_Nama_LogoAnimation](https://github.com/NamaWorks/NamaWorks/assets/136508151/319f6907-03ed-4e60-9238-f388216ba54b)
 
 # Hi! I'm Pedro Naya:
 
