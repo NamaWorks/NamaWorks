@@ -3,23 +3,7 @@
 
 # Hi! I'm Pedro Naya!
 
-I'm a motion designer and MERN developer in process.
-
-## Something about me:
-- Motion Designer
-- Learning web Development
-- Interested in:
-  - 🎮 Videogames
-  - 🎥 Video editing and postproduction
-  - 🏍 Motorcycles
-
-## Technologies I use:
-- Adobe After Effects
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe Premiere Pro
-- Maxon Cinema4D w/ Redshift and Arnold
-
+I'm a motion designer and MERN developer.
 
 ## I work with:
 <div >
