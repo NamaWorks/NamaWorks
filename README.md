@@ -3,7 +3,11 @@
 
 # Hey! I'm Pedro Naya!
 
-I'm a motion designer and MERN developer.
+I'm Pedro Naya, a digital environment enthusiast based in Spain.
+
+In my day to day I work with all kind of clients, I help them develop their products or services, making good use of all the knowledge adquired in my previous experience.
+
+Hope we can work together and create something truly amazing!
 
 ## I work with:
 <div >
