@@ -1,7 +1,7 @@
 ![02_Nama_LogoAnimation](https://github.com/NamaWorks/NamaWorks/assets/136508151/ed690a3a-971f-4c1c-bf22-186252870ca9)
 
 
-# Hi! I'm Pedro Naya!
+# Hey! I'm Pedro Naya!
 
 I'm a motion designer and MERN developer.
 
@@ -31,6 +31,8 @@ I'm a motion designer and MERN developer.
 ## Find me on:
 
 <div>
+<!-- 	<a href="https://www.nama.works/">Personal Website</a> -->
 	<a href="https://nama.works/"><img width="36" src="https://res.cloudinary.com/dgrhbsilh/image/upload/v1702472970/Nama/Neon_Aqua_Logo_b0ktoz.svg" alt="NamaWorks"></a>
-	<a href="[https://nama.works/](https://www.linkedin.com/in/pedro-naya-907820148/)"><img width="60" src="https://res.cloudinary.com/dgrhbsilh/image/upload/v1716959471/Nama/linkedin_kw3ses.png" alt="LinkedIn"></a>
+	<a href="https://www.linkedin.com/in/pedro-naya">LinkedIn</a>
+<!-- 	<a href="[https://nama.works/](https://www.linkedin.com/in/pedro-naya-907820148/)"><img width="36" src="https://res.cloudinary.com/dgrhbsilh/image/upload/v1716959471/Nama/linkedin_kw3ses.png" alt="LinkedIn"></a> -->
 </div>
