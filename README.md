@@ -27,7 +27,9 @@ Hope we can work together and create something truly amazing!
 
 ---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamaWorks&theme=apprentice)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NamaWorks&theme=apprentice) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamaWorks&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NamaWorks&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
