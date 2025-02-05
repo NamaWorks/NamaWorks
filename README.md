@@ -1,8 +1,15 @@
 ![02_Nama_LogoAnimation](https://github.com/NamaWorks/NamaWorks/assets/136508151/ed690a3a-971f-4c1c-bf22-186252870ca9)
 
 # 💫 About Me:
-I'm Pedro Naya, a digital environment enthusiast based in Spain.<br><br>In my day to day I work with all kind of clients, I help them develop their products or services, making good use of all the knowledge adquired in my previous experience.<br><br>Hope we can work together and create something truly amazing!
+Hey there!
 
+I’m Pedro Naya, a developer and all-around digital enthusiast based Spain. I’m passionate about building products that people love to use and helping clients bring their ideas to life, whether it’s a sleek website or a complex app. With a solid mix of experience in different tech stacks, I’m always looking for creative ways to solve problems and make the development process smoother.
+
+In my day-to-day, I get to work with awesome clients from all kinds of industries, using everything I’ve learned along the way to create products and services that are not only functional but also a joy to interact with. I’m all about making things simple, intuitive, and user-friendly while keeping an eye on the bigger picture.
+
+I’m excited about the possibility of collaborating and building something amazing together—let’s make it happen!
+
+Happy coding!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-naya) 
