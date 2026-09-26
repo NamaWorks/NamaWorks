@@ -47,6 +47,8 @@ Happy coding!
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Linear](https://img.shields.io/badge/Linear-5E6AD2.svg?style=for-the-badge&logo=Linear&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757.svg?style=for-the-badge&logo=Claude&logoColor=white)
+![jsDelivr](https://img.shields.io/badge/jsDelivr-CDN-E84D3D?style=for-the-badge&logo=jsDelivr&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NamaWorks&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NamaWorks&theme=dark&hide_border=true)
