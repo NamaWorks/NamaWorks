@@ -7,7 +7,7 @@ I’m Pedro Naya, a developer and all-around digital enthusiast based Spain. I�
 
 In my day-to-day, I get to work with awesome clients from all kinds of industries, using everything I’ve learned along the way to create products and services that are not only functional but also a joy to interact with. I’m all about making things simple, intuitive, and user-friendly while keeping an eye on the bigger picture.
 
-I’m excited about the possibility of collaborating and building something amazing together—let’s make it happen!
+I’m excited about the possibility of collaborating and building something amazing together. Let’s make it happen!
 
 Happy coding!
 
